@@ -22,3 +22,8 @@ results/
 .DS_Store
 Thumbs.db
 .DS_Store
+
+# Large test videos
+data/road_video.mp4
+data/road_video1.mp4
+
